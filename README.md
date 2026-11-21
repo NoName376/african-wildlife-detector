@@ -2,7 +2,7 @@
 
 CSCI1409 Deep Learning, bonus project. Fine-tuning a pretrained YOLO11n to find and classify 4 African animals: **buffalo, elephant, rhino, zebra**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/african-wildlife-detector/blob/main/african_wildlife_detector.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NoName376/african-wildlife-detector/blob/main/african_wildlife_detector.ipynb)
 
 ## Task
 
