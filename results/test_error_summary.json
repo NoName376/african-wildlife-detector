@@ -1,0 +1,9 @@
+{
+  "images": 225,
+  "images_with_errors": 39,
+  "missed": 28,
+  "wrong_class": 15,
+  "false_pos": 35,
+  "conf": 0.25,
+  "match_iou": 0.5
+}

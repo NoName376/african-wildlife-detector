@@ -1,0 +1,5 @@
+train images 1053 objects 1890 {'buffalo': 359, 'elephant': 553, 'zebra': 575, 'rhino': 403} empty 0 bad 0
+val images 226 objects 410 {'buffalo': 93, 'elephant': 102, 'rhino': 91, 'zebra': 124} empty 0 bad 0
+test images 225 objects 385 {'buffalo': 99, 'elephant': 93, 'rhino': 69, 'zebra': 124} empty 0 bad 0
+exact duplicate groups: 40 across splits: 0
+near-duplicate pairs across splits: 0

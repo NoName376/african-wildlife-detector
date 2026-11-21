@@ -1,0 +1,16 @@
+{
+  "imgsz_416": {
+    "imgsz": 416,
+    "train_minutes": 76.7,
+    "precision": 0.905,
+    "recall": 0.891,
+    "mAP50": 0.934,
+    "mAP50_95": 0.797,
+    "per_class_mAP50": {
+      "buffalo": 0.906,
+      "elephant": 0.927,
+      "rhino": 0.963,
+      "zebra": 0.94
+    }
+  }
+}
